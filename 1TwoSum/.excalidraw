@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "WYtPXYVmQg2gAVMu_hOtm",
+      "type": "text",
+      "x": 221.66665649414062,
+      "y": 145.5078125,
+      "width": 562.57958984375,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1618174166,
+      "version": 88,
+      "versionNonce": 946592458,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748275341634,
+      "link": null,
+      "locked": false,
+      "text": "1. Two Sum\n\ndef twoSum(self, nums: List[int], target: int) -> List[int]:\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. Two Sum\n\ndef twoSum(self, nums: List[int], target: int) -> List[int]:\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
